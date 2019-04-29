@@ -15,8 +15,9 @@ in some cases require the material to have some unworkable endstock in both ends
 mechanism. It will also, in some cases where high X accuracy is required, have to be 
 equipped with special-made soft jaws for the holding mechanism. It will require special 
 care regarding the feed mechanism clamping capabilities. A and B axes can normally not 
-be used when the C axis is used, but the roll action (a-axis)can be implementet in the feeding 
+be used when the C axis is used, but the roll action (A-axis) can be implementet in the feeding 
 mechanism. This will be a >360 degree angle movement along the length of the material, 
 thus creating a lathe like possibility with the milling tool (Z-axis) as the lathe X-axis 
 (Tool in/out axis). Special alignment and reference marks has to be created on the material 
-to obtain some better accuracy in the Y-axis.
+to obtain some better accuracy in the Y-axis. Y-axis accuracy can be obtained if special clamping
+tools are used.
