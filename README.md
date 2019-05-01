@@ -17,7 +17,7 @@ roll. C is normally table yaw (rotation), but roll around Z-axis is
 seldom used since this really is the rotating tool itself. If a rotation
 of the table is needed, this can be accomplished by setting pitch or
 roll in a 90 degree position and using roll or pitch as the rotating
-axis respectively. Therefore, in this case, it is a special feed-through
+axis respectively. Therefore, in this case, C is a special feed-through
 axis where long materials or setups with multiple workpieces can be fed
 beyond the normal Y-axis. This can also be used when a long milling
 operation has to be done in the Y-axis without the need for special Y
