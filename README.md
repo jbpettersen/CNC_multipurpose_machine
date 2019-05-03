@@ -1,14 +1,14 @@
-# CNC_multipurpose_machine Multipurpose 
-CNC milling machine for wood and soft metal
+# CNC_multipurpose_machine 
+##Multipurpose CNC milling machine for wood and soft metal
 # 
-## Hardware and capability
+### Hardware and capability
 This machine will be primary for wood and plasic milling, but can in special
 cases be used for soft metals like aluminium. Special care has to be taken in
 theese cases, since there is no flood cooling, and thereby only dry milling
 capabilities. There will be an air cooling/chip cleaning system with
 pressurized air as medium.
 
-## Axes and accuracy
+### Axes and accuracy
 This machine will have 6 cnc-axes and some special alignment axes for special
 operations. X, Y and Z is the standard Cartesian axes for spindle movement,
 where X is left/right movement, Y is forward/backward movement and Z is
