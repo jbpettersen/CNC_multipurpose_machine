@@ -1,7 +1,7 @@
 # CNC_multipurpose_machine Multipurpose CNC milling machine for wood and soft
 # metal
 # 
-## HardWare and capability
+## Hardware and capability
 This machine will be primary for wood and plasic milling, but can in special
 cases be used for soft metals like aluminium. Special care has to be taken in
 theese cases, since there is no flood cooling, and thereby only dry milling
