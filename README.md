@@ -1,5 +1,5 @@
 # CNC_multipurpose_machine 
-##Multipurpose CNC milling machine for wood and soft metal
+## Multipurpose CNC milling machine for wood and soft metal
 # 
 ### Hardware and capability
 This machine will be primary for wood and plasic milling, but can in special
