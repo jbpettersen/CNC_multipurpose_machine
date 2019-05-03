@@ -21,7 +21,7 @@ reconfiguring the C axis to rotate the table. This axis can now extend
 to a 360 degree rotation. Normally, C is used as a special feed-through axis
 where long materials or setups with multiple workpieces can be fed beyond the
 normal Y-axis. This can also be used when a long milling operation has to be
-done in the Y-axis without the need for special Y accuracy. Eg edge-profiling.
+done in the Y-axis without the need for special Y accuracy. Eg. edge-profiling.
 This mode will in some cases require the material to have some unworkable
 endstock in both ends to satisfy the feeding mechanism. It will also, in some
 cases where high X accuracy is required, have to be equipped with special-made
