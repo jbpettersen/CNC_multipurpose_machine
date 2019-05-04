@@ -1,6 +1,6 @@
 # CNC_multipurpose_machine 
 ## Multipurpose CNC milling machine for wood and soft metal
-## ## # 
+## ## ## ## # 
 ### Hardware and capability
 This machine will be primary for wood and plasic milling, but can in special
 cases be used for soft metals like aluminium. Special care has to be taken in
@@ -32,6 +32,8 @@ when the C axis is active, but the roll action (B-axis) can be implementet in
 the feeding mechanism (not the table). This will be a >360 degree angle
 movement along the length of the material (Y-axis), thus creating a lathe like
 functionality with the milling tool (Z-axis) as the lathe X-axis (Tool in/out
-axis). Special alignment and reference marks has to be created on the material
-to obtain some better accuracy in the Y-axis. More Y-axis accuracy can also be
-obtained if special clamping tools are used.
+axis). The A-axis could also be used as the tool angle axis (Lathe B-axis),
+but that would require very special programming since this axis belongs to the
+stock, not to the tool itself. Special alignment and reference marks has to be
+created on the material to obtain some better accuracy in the Y-axis. More
+Y-axis accuracy can also be obtained if special clamping tools are used.
