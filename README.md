@@ -1,10 +1,17 @@
 # CNC_multipurpose_machine 
 ## Multipurpose CNC milling machine for wood and soft metal
-
+## 
 #### Mark that this document is under work and that errors may occur.
+#### 
+### Objective
+This projects main objective is to build an inexpencive or expencive
+extendable CNC milling machine for the hobbyist or for production use. The
+machine can be built using simple or advanced materials depending un the users
+need. There is no rule regarding type of materials or the type of software
+used to control this machine.
 
 ### Hardware and capability
-This machine will be primary for wood and plasic milling, but can in special
+This machine will be primary for wood and plastic milling, but can in special
 cases be used for soft metals like aluminium. Special care has to be taken in
 theese cases, since there is no flood cooling, and thereby only dry milling
 capabilities. There will be an air cooling/chip cleaning system with
