@@ -1,7 +1,7 @@
 # CNC_multipurpose_machine 
 ## Multipurpose CNC milling machine for wood and soft metal
 ## 
-_Mark that this document is under work and that errors may occur._
+:exclamation:_Mark that this document is under work and that errors may occur._
 ### Objective
 This projects main objective is to build an inexpencive or expencive
 extendable CNC milling machine for the hobbyist or for production use. The
