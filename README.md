@@ -56,9 +56,10 @@ Y-axis accuracy can also be obtained if special clamping tools are used.
 ### Sensors and adjustments
 The machine will have optional sensors for sensing chatter, tool-load,
 tool-bending and heat. It will also have sensors for stock height and edge
-detection as well as different alignment sensors.
+detection as well as different alignment sensors. These latter sensors will
+also be used for sensing backlash, repeatability and axis accuracy.
 
 
 ### Construction
 ### 
-### ### 
+### ### ### ### 
