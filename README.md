@@ -1,7 +1,8 @@
 # CNC_multipurpose_machine 
 ## Multipurpose CNC milling machine for wood and soft metal
 ## 
-:exclamation:_Mark that this document is under work and that errors may occur._
+:exclamation:_Mark that this document is under work and that errors may
+occur._
 ##
 ### Objective
 This projects main objective is to build an inexpencive or expencive
@@ -52,6 +53,12 @@ stock, not to the tool itself. Special alignment and reference marks has to be
 created on the material to obtain some better accuracy in the Y-axis. More
 Y-axis accuracy can also be obtained if special clamping tools are used.
 
+### Sensors and adjustments
+The machine will have optional sensors for sensing chatter, tool-load,
+tool-bending and heat. It will also have sensors for stock height and edge
+detection as well as different alignment sensors.
+
+
 ### Construction
 ### 
-### 
+### ### 
