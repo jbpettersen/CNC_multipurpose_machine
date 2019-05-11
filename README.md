@@ -52,6 +52,15 @@ but that would require very special programming since this axis belongs to the
 stock, not to the tool itself. Special alignment and reference marks has to be
 created on the material to obtain some better accuracy in the Y-axis. More
 Y-axis accuracy can also be obtained if special clamping tools are used.
+Programmatically, the machine can be programmed on a 5-axis basis or as a 3+2
+unit with indexing. We have to remember, when operating with position,
+movement, forces, rotation and attitudes on both the tool and the material,
+that this implies a very complex operational dynamics. Most of this complexity
+will be hidden by the software by transforming it into a more intuitive
+system. Eg. you tell the software where on the object you want to perform an
+operation, what type of operation you want to perform and the attitude of the
+tool to perform the operation. 
+
 
 ### Sensors and adjustments
 The machine will have optional sensors for sensing chatter, tool-load,
@@ -62,4 +71,4 @@ also be used for sensing backlash, repeatability and axis accuracy.
 
 ### Construction
 ### 
-### ### ### ### 
+### ### ### ### ### ### ### ### 
