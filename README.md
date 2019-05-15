@@ -62,6 +62,7 @@ operation, what type of operation you want to perform and the attitude of the
 tool to perform the operation. 
 
 
+
 ### Sensors and adjustments
 The machine will have optional sensors for sensing chatter, tool-load,
 tool-bending and heat. It will also have sensors for stock height and edge
